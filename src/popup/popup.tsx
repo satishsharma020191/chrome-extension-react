@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-import './popup.css';
+import './popup.scss';
 const test = <p className="name">Satish1</p>
 const root = document.createElement('div');
 document.body.appendChild(root);
